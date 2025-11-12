@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "CartoMobileSDK-valhalla",
+            name: "CartoMobileSDK",
             url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.1/carto-mobile-sdk-ios-5.0.1-valhalla.zip",
             checksum: "e8547ba2d20a4eb2ee63ba89f23e21d35d8c74645277476ab17ac5613ce9aeb4"
         ),
