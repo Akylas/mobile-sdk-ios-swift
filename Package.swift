@@ -17,18 +17,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CartoMobileSDK",
-            url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.3/carto-mobile-sdk-ios-5.0.3-valhalla.zip",
-            checksum: "0d89c6d68f3c455b69508c10ec7bd5d59a5860e0ba80ef8dfef5506b571c7310"
+            url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.4/carto-mobile-sdk-ios-5.0.4-valhalla.zip",
+            checksum: "57eb2dca94d70028ded32e53b05a9041cb9863530d4cd917ab2e035c76d8d8d6"
         ),
         .binaryTarget(
             name: "CartoMobileSDK-core",
-            url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.3/carto-mobile-sdk-ios-5.0.3-core.zip",
-            checksum: "0479ec7434bad2997d3f0f86cfc60c397c3dd6b69a4e5d3919aee66d9166a9bc"
+            url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.4/carto-mobile-sdk-ios-5.0.4-core.zip",
+            checksum: "8f2ceb86e00d40f1c26c6198b248b541c0a7279b4cc591c1c9425cb9e09e8009"
         ),
         .binaryTarget(
             name: "CartoMobileSDK-lite",
-            url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.3/carto-mobile-sdk-ios-5.0.3-lite.zip",
-            checksum: "4bd8cd67a7ecc136a5f850cf6360526b1d060f194004fbb187e9e2391fd7bd57"
+            url: "https://github.com/Akylas/mobile-sdk/releases/download/v5.0.4/carto-mobile-sdk-ios-5.0.4-lite.zip",
+            checksum: "c6761242ed6ebc8960e30bc8f422d1a30c6b2c53f2b7a22bd6e69e71924089ca"
         ),
     ]
 )
